@@ -33,7 +33,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danush30) &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_decent_30) &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/username)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rallapilla.danush)
 <br>
 </div>
 
@@ -61,6 +61,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Danush30&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Danush30&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
