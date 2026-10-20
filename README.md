@@ -104,4 +104,4 @@
 
 </div>
 
-**<p align="center"> &copy; 2025 Yeswanth Kumar Rallapilla &trade; . All Rights Reserved &reg;. Unauthorized use or distribution of this content is prohibited.</p>**
+**<p align="center"> &copy; 2026 Danush Sai Prasanth Rallapilla &trade; . All Rights Reserved &reg;. Unauthorized use or distribution of this content is prohibited.</p>**
